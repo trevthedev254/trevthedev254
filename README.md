@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @trevthedev254
 - 👀 I’m interested in all things cloud; Azure, GCP and AWS
 - 🌱 I’m currently learning cloud development primarily on AWS 
-- 📫 How to reach me trevetech@gmail.com or o my linkedin: https://www.linkedin.com/in/trevelyan-kepha/
+- 📫 How to reach me trevetech@gmail.com or on my linkedin: https://www.linkedin.com/in/trevelyan-kepha/
 
 <!---
 trevthedev254/trevthedev254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
