@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trevthedev254
-- 👀 I’m interested in all things cloud devops; Azure, GCP and AWS
-- 🌱 I’m currently learning cloud development primarily on AWS, I also have hands on knowledge on Azure and GCP.
+- 👀 I’m interested in all things cloud devops and cybersecurity; I also have hands on knowledge on Azure AWS, and GCP.
+- 🌱 I’m currently learning about cybersecutity and pursuing a secure + certificatiom
 - 📫 How to reach me trevetech@gmail.com or on my linkedin: https://www.linkedin.com/in/trevelyan-kepha/
 
 <!---
